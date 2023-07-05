@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\ParentChild.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\ParentChild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\ParentChild.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\ParentChild.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\ParentChild.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\bin\Debug\net7.0\ParentChild.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\bin\Debug\net7.0\ParentChild.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\bin\Debug\net7.0\ParentChild.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\bin\Debug\net7.0\ParentChild.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\bin\Debug\net7.0\ParentChild.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\ParentChild.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\refint\ParentChild.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\ParentChild.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\ParentChild.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\ParentChild\obj\Debug\net7.0\ref\ParentChild.dll
