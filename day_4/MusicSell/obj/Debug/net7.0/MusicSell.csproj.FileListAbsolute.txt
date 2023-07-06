@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\refint\MusicSell.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\ref\MusicSell.dll

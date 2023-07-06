@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\bin\Debug\net7.0\Boxing.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\bin\Debug\net7.0\Boxing.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\bin\Debug\net7.0\Boxing.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\bin\Debug\net7.0\Boxing.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\bin\Debug\net7.0\Boxing.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\Boxing.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\Boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\Boxing.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\Boxing.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\Boxing.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\Boxing.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\refint\Boxing.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\Boxing.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\Boxing.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\Boxing\obj\Debug\net7.0\ref\Boxing.dll
