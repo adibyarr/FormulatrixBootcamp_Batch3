@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\GenericDay.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\GenericDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\GenericDay.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\GenericDay.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\GenericDay.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\bin\Debug\net7.0\GenericDay.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\bin\Debug\net7.0\GenericDay.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\bin\Debug\net7.0\GenericDay.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\bin\Debug\net7.0\GenericDay.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\bin\Debug\net7.0\GenericDay.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\GenericDay.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\refint\GenericDay.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\GenericDay.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\GenericDay.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\GenericDay\obj\Debug\net7.0\ref\GenericDay.dll

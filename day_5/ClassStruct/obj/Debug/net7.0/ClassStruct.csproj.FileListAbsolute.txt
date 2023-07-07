@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\bin\Debug\net7.0\ClassStruct.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\bin\Debug\net7.0\ClassStruct.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\bin\Debug\net7.0\ClassStruct.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\bin\Debug\net7.0\ClassStruct.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\bin\Debug\net7.0\ClassStruct.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\ClassStruct.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\ClassStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\ClassStruct.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\ClassStruct.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\ClassStruct.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\ClassStruct.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\refint\ClassStruct.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\ClassStruct.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\ClassStruct.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_5\ClassStruct\obj\Debug\net7.0\ref\ClassStruct.dll
