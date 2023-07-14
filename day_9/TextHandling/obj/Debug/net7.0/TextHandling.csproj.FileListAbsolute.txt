@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\bin\Debug\net7.0\TextHandling.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\bin\Debug\net7.0\TextHandling.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\bin\Debug\net7.0\TextHandling.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\bin\Debug\net7.0\TextHandling.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\bin\Debug\net7.0\TextHandling.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\TextHandling.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\TextHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\TextHandling.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\TextHandling.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\TextHandling.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\TextHandling.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\refint\TextHandling.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\TextHandling.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\TextHandling.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\TextHandling\obj\Debug\net7.0\ref\TextHandling.dll

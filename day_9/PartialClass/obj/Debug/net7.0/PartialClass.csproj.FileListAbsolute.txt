@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\bin\Debug\net7.0\PartialClass.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\bin\Debug\net7.0\PartialClass.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\bin\Debug\net7.0\PartialClass.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\bin\Debug\net7.0\PartialClass.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\bin\Debug\net7.0\PartialClass.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\PartialClass.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\PartialClass.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\refint\PartialClass.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\PartialClass.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\PartialClass.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_9\PartialClass\obj\Debug\net7.0\ref\PartialClass.dll
