@@ -1,0 +1,15 @@
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\bin\Debug\net7.0\PlayerBasket.exe
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\bin\Debug\net7.0\PlayerBasket.deps.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\bin\Debug\net7.0\PlayerBasket.runtimeconfig.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\bin\Debug\net7.0\PlayerBasket.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\bin\Debug\net7.0\PlayerBasket.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\PlayerBasket.csproj.AssemblyReference.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\PlayerBasket.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\PlayerBasket.AssemblyInfoInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\PlayerBasket.AssemblyInfo.cs
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\PlayerBasket.csproj.CoreCompileInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\PlayerBasket.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\refint\PlayerBasket.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\PlayerBasket.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\PlayerBasket.genruntimeconfig.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\PlayerBasket\obj\Debug\net7.0\ref\PlayerBasket.dll
