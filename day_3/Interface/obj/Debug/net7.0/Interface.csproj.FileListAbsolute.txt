@@ -13,3 +13,18 @@ C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\Interface\obj
 C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.pdb
 c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
 c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\ref\Interface.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\bin\Debug\net7.0\Interface.exe
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\bin\Debug\net7.0\Interface.deps.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\bin\Debug\net7.0\Interface.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\bin\Debug\net7.0\Interface.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\refint\Interface.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_3\Interface\obj\Debug\net7.0\ref\Interface.dll

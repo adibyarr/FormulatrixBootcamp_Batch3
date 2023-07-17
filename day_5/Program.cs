@@ -20,6 +20,11 @@ class NumberComparison
             Console.WriteLine("The decimal number is greater than the double number.");
         }
     }
+
+    internal void ComparisonNumber()
+    {
+        throw new NotImplementedException();
+    }
 }
 
 struct NumberComparisonStruct

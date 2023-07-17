@@ -13,3 +13,18 @@ C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj
 C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.pdb
 c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.genruntimeconfig.cache
 c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\ref\MusicSell.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.exe
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.deps.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.runtimeconfig.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\bin\Debug\net7.0\MusicSell.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.csproj.AssemblyReference.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.AssemblyInfoInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.AssemblyInfo.cs
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.csproj.CoreCompileInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\refint\MusicSell.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\MusicSell.genruntimeconfig.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\day_4\MusicSell\obj\Debug\net7.0\ref\MusicSell.dll

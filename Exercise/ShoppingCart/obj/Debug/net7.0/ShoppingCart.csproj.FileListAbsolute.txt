@@ -1,0 +1,15 @@
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\bin\Debug\net7.0\ShoppingCart.exe
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\bin\Debug\net7.0\ShoppingCart.deps.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\bin\Debug\net7.0\ShoppingCart.runtimeconfig.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\bin\Debug\net7.0\ShoppingCart.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\bin\Debug\net7.0\ShoppingCart.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.AssemblyReference.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfoInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfo.cs
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.CoreCompileInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\ShoppingCart.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\refint\ShoppingCart.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\ShoppingCart.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\ShoppingCart.genruntimeconfig.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Exercise\ShoppingCart\obj\Debug\net7.0\ref\ShoppingCart.dll

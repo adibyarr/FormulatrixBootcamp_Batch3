@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\HidingMethod.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\HidingMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\HidingMethod.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\HidingMethod.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\HidingMethod.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\bin\Debug\net7.0\HidingMethod.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\bin\Debug\net7.0\HidingMethod.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\bin\Debug\net7.0\HidingMethod.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\bin\Debug\net7.0\HidingMethod.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\bin\Debug\net7.0\HidingMethod.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\HidingMethod.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\refint\HidingMethod.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\HidingMethod.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\HidingMethod.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_3\HidingMethod\obj\Debug\net7.0\ref\HidingMethod.dll
