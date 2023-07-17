@@ -1,8 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+using System.Collections.Generic;
 
 namespace TaskFoobar
 {
-	class program
+	class Program
 	{
 		static void Main(string[] args)
 		{
@@ -10,16 +11,13 @@ namespace TaskFoobar
 			rules.Add(3, "foo");
 			rules.Add(5, "bar");
 			
+
 			Console.Write("Input number: ");
 			int n = Convert.ToInt32(Console.ReadLine());
-			
-			Console.WriteLine("n = " + n);
-			Console.Write("Result: ");
-			
+
 			FoobarPrinter printer = new FoobarPrinter();
 			printer.PrintNumbers(n, rules);
-			
-			Console.WriteLine();
 		}
 	}
+
 }

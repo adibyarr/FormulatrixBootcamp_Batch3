@@ -1,31 +1,32 @@
+using System;
+using System.Collections.Generic;
+
 namespace TaskFoobar
 {
-	class FoobarPrinter
-	{
-	   public void PrintNumbers(int n, Dictionary<int,string> rules)
-		
-		{
-			for (int i = 0; i <= n; i++)
-			{
-				bool isDivided = false;
-				string result = " ";
-				
-				foreach(var rule in rules)
-				{
-					if (i != 0 && i % rule.Key == 0)
-					{
-						result += rule.Value;
-						isDivided = true;
-					}
-				}
-				if (!isDivided)
-				
-					result += i.ToString();
-					
-					Console.Write(result+ " ");
-				
-			}
-		}
+    class FoobarPrinter
+    {
+        public void PrintNumbers(int n, Dictionary<int, string> rules)
+        {
+            for (int i = 0; i <= n; i++) // Change the loop condition and initial value to include 0
+            {
+                bool isDivided = false;
+                string result = " ";
 
-	}
+                foreach (var rule in rules)
+                {
+                    if (i != 0 && i % rule.Key == 0)
+                    {
+                        result += rule.Value;
+                        isDivided = true;
+                    }
+                }
+
+                if (!isDivided)
+                    result += i.ToString();
+
+                Console.Write(result + " ");
+            }
+        }
+    }
+
 }

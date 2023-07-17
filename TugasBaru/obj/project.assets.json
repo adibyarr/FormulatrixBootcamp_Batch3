@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\BootcampBatch3\\TugasBaru\\TugasBaru.csproj",
+      "projectUniqueName": "c:\\Users\\hp\\BootcampBatch3\\FormulatrixBootcamp_Batch3\\TugasBaru\\TugasBaru.csproj",
       "projectName": "TugasBaru",
-      "projectPath": "C:\\Users\\hp\\BootcampBatch3\\TugasBaru\\TugasBaru.csproj",
+      "projectPath": "c:\\Users\\hp\\BootcampBatch3\\FormulatrixBootcamp_Batch3\\TugasBaru\\TugasBaru.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\BootcampBatch3\\TugasBaru\\obj\\",
+      "outputPath": "c:\\Users\\hp\\BootcampBatch3\\FormulatrixBootcamp_Batch3\\TugasBaru\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
