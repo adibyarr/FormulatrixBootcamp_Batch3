@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\bin\Debug\net7.0\Array2d.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\bin\Debug\net7.0\Array2d.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\bin\Debug\net7.0\Array2d.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\bin\Debug\net7.0\Array2d.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\bin\Debug\net7.0\Array2d.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\Array2d.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\Array2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\Array2d.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\Array2d.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\Array2d.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\Array2d.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\refint\Array2d.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\Array2d.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\Array2d.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\day_10\Array2d\obj\Debug\net7.0\ref\Array2d.dll
