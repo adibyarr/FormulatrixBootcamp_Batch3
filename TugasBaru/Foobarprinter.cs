@@ -7,7 +7,7 @@ namespace TaskFoobar
     {
         public void PrintNumbers(int n, Dictionary<int, string> rules)
         {
-            for (int i = 0; i <= n; i++) // Change the loop condition and initial value to include 0
+            for (int i = 0; i <= n; i++) 
             {
                 bool isDivided = false;
                 string result = " ";
