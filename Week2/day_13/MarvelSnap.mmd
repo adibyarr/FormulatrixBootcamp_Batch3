@@ -1,0 +1,137 @@
+classDiagram
+    
+    CardCollection <|-- Daredevil: Extends
+    CardCollection <|-- StarLord: Extends
+    CardCollection <|-- Hulk: Extends
+    CardCollection <|-- IronMan: Extends
+    CardCollection <|-- Thor: Extends
+    CardCollection <|-- HawkEye: Extends
+
+    Deck --|> Card
+    Card --> Turn
+    Card <|-- CardCollection
+    Hand <-- CardCollection
+    Deck o-- Score
+    Board o-- Deck
+    GameRunner --* Player
+    Board ..|> IFieldBoard :Implements  
+    Board <-- IPlayer
+    Turn ..> Energy:Depend
+    Player ..|> IPlayer :implements
+    IPlayer o-- Turn
+    GameRunner --* Board
+
+    GameState ..|> GameRunner : Uses
+    GameRunner ..|> Score  : Uses 
+    class Board{
+      +BoardNumber: int
+
+    }
+    class IFieldBoard{
+        <<Interface>>
+        numbersOfField~field~ field
+        +stateAdvantage: string
+        +Points: Deck
+        +CardPlay()
+        +valueAdv(int)
+
+    }
+    class Energy{
+        +NumberEnergy: String
+        +addEnergy()
+        +MinusEnergy()
+    }
+    class Player{
+        +board : Board
+        +idPlayer : int32
+        +gameState : GameState
+        +GetEnemy():void
+        +FinishGame(): void
+        +CheckGameState(): GameState
+    }
+    class IPlayer{
+        +MakeTurn(): void
+    }
+    class Card{
+        -ListCard~Card~ cards;
+      +Energy : int
+      +Level : int
+      +Hp : int
+      +NameCard: String
+      +damage()
+      +deffence()
+    }
+    class Hand{
+        CardCollection~CardCollection~
+        +CardNumber: int
+        +ReleaseCard()
+        +AddCard()
+
+    }
+    class Deck{
+      
+      -Score: Score  
+      -nameDeck: String
+      +shuffleCard()
+      +ShowScore() : Score 
+      -ListCard~Dictionary~
+      +drawCard()
+    }
+    class CardCollection{
+        <<Abstract>>
+      -Name: string
+      -specialSkill: String
+      -Level: int
+      -skills():void
+      -getCard(index:int, card = Card)
+    }
+    class GameState{
+        currentTime: date
+        currentScore: int
+        -countTime()
+        -countScore()
+    }
+    class GameRunner{
+        players: Player[]
+        field: IFieldBoard
+        gameTurn: int
+        playerTurn: int
+        displayScore: Score
+        CheckGameState: GameState
+        +GetName()
+        +StartGame()
+        +FinishGame()
+        +IsWinner(): GameState
+    }
+    class Score{
+        +points : int
+        +display() : string
+        +addPoints(amount:int):void
+        +minusPoitns(amount:int):void
+    }
+    class Thor{
+        
+    }
+    class Daredevil{
+
+    }
+    class IronMan{
+
+    }
+    class Hulk{
+
+    }
+    class HawkEye{
+
+    }
+    class StarLord{
+
+    }
+    class Turn{
+        +currentPlay : void 
+        +releaseCard(): playerTurn
+        +retreat()
+
+    }
+
+    //https://www.mermaidchart.com/app/projects/5de53169-fcc9-43cd-9375-5b4dc788bc84/diagrams/e2fe4a97-bac7-4d9c-be0e-d17b0d04d0f3/version/v0.1/edit
