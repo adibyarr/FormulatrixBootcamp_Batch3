@@ -12,6 +12,7 @@ namespace TaskFoobar
 			FoobarPrinter printer = new FoobarPrinter();
 			printer.AddRule(3, "foo");
 			printer.AddRule(5, "bar");
+<<<<<<< HEAD
 			printer.AddRule(2, "fizz");
 			printer.AddRule(4, "buzz");
 
@@ -34,6 +35,8 @@ namespace TaskFoobar
 			//Remove semua rules
 			printer.RemoveAllRules();
 			Console.WriteLine("Numbers after removing all rules:");
+=======
+>>>>>>> de4a01b0aceb4ef325ca415f50c033e43dca8f7f
 			printer.PrintNumbers(n);
 		}
 	}

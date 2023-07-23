@@ -28,3 +28,18 @@ c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0
 c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.pdb
 c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.genruntimeconfig.cache
 c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\ref\TugasBaru.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\bin\Debug\net7.0\TugasBaru.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\bin\Debug\net7.0\TugasBaru.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\bin\Debug\net7.0\TugasBaru.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\bin\Debug\net7.0\TugasBaru.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\bin\Debug\net7.0\TugasBaru.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\refint\TugasBaru.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\TugasBaru.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\TugasBaru\obj\Debug\net7.0\ref\TugasBaru.dll
