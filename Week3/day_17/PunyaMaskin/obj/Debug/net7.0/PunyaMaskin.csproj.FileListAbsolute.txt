@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\bin\Debug\net7.0\PunyaMaskin.exe
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\bin\Debug\net7.0\PunyaMaskin.deps.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\bin\Debug\net7.0\PunyaMaskin.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\bin\Debug\net7.0\PunyaMaskin.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\bin\Debug\net7.0\PunyaMaskin.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\PunyaMaskin.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\PunyaMaskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\PunyaMaskin.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\PunyaMaskin.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\PunyaMaskin.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\PunyaMaskin.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\refint\PunyaMaskin.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\PunyaMaskin.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\PunyaMaskin.genruntimeconfig.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\PunyaMaskin\obj\Debug\net7.0\ref\PunyaMaskin.dll

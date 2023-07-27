@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\DisposePattern.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\DisposePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\DisposePattern.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\DisposePattern.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\DisposePattern.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\bin\Debug\net7.0\DisposePattern.exe
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\bin\Debug\net7.0\DisposePattern.deps.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\bin\Debug\net7.0\DisposePattern.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\bin\Debug\net7.0\DisposePattern.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\bin\Debug\net7.0\DisposePattern.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\DisposePattern.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\refint\DisposePattern.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\DisposePattern.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\DisposePattern.genruntimeconfig.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week3\day_17\DisposePattern\obj\Debug\net7.0\ref\DisposePattern.dll
