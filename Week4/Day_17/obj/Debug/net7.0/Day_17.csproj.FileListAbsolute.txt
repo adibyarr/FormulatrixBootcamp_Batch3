@@ -1,0 +1,5 @@
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\obj\Debug\net7.0\Day_17.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\obj\Debug\net7.0\Day_17.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\obj\Debug\net7.0\Day_17.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\obj\Debug\net7.0\Day_17.AssemblyInfo.cs
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\obj\Debug\net7.0\Day_17.csproj.CoreCompileInputs.cache

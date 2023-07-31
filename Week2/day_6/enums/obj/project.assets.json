@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\day_6\\enums\\enums.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week2\\day_6\\enums\\enums.csproj",
       "projectName": "enums",
-      "projectPath": "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\day_6\\enums\\enums.csproj",
+      "projectPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week2\\day_6\\enums\\enums.csproj",
       "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\day_6\\enums\\obj\\",
+      "outputPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week2\\day_6\\enums\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\bin\Release\net7.0\ConditionalCompilaton.exe
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\bin\Release\net7.0\ConditionalCompilaton.deps.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\bin\Release\net7.0\ConditionalCompilaton.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\bin\Release\net7.0\ConditionalCompilaton.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\bin\Release\net7.0\ConditionalCompilaton.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\ConditionalCompilaton.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\ConditionalCompilaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\ConditionalCompilaton.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\ConditionalCompilaton.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\ConditionalCompilaton.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\ConditionalCompilaton.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\refint\ConditionalCompilaton.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\ConditionalCompilaton.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\ConditionalCompilaton.genruntimeconfig.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\ConditionalCompilaton\obj\Release\net7.0\ref\ConditionalCompilaton.dll

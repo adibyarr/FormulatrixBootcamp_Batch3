@@ -1,0 +1,15 @@
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\bin\Debug\net7.0\I_TraceListeners.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\bin\Debug\net7.0\I_TraceListeners.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\bin\Debug\net7.0\I_TraceListeners.runtimeconfig.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\bin\Debug\net7.0\I_TraceListeners.dll
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\bin\Debug\net7.0\I_TraceListeners.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\I_TraceListeners.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\I_TraceListeners.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\I_TraceListeners.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\I_TraceListeners.AssemblyInfo.cs
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\I_TraceListeners.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\I_TraceListeners.dll
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\refint\I_TraceListeners.dll
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\I_TraceListeners.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\I_TraceListeners.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\I_TraceListeners\obj\Debug\net7.0\ref\I_TraceListeners.dll

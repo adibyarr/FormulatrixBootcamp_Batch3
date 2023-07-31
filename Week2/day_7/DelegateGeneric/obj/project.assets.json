@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\day_7\\DelegateGeneric\\DelegateGeneric.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week2\\day_7\\DelegateGeneric\\DelegateGeneric.csproj",
       "projectName": "DelegateGeneric",
-      "projectPath": "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\day_7\\DelegateGeneric\\DelegateGeneric.csproj",
+      "projectPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week2\\day_7\\DelegateGeneric\\DelegateGeneric.csproj",
       "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\day_7\\DelegateGeneric\\obj\\",
+      "outputPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week2\\day_7\\DelegateGeneric\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

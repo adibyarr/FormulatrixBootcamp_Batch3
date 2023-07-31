@@ -1,0 +1,15 @@
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\bin\Debug\net7.0\XMLDocumentation.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\bin\Debug\net7.0\XMLDocumentation.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\bin\Debug\net7.0\XMLDocumentation.runtimeconfig.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\bin\Debug\net7.0\XMLDocumentation.dll
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\bin\Debug\net7.0\XMLDocumentation.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\XMLDocumentation.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\XMLDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\XMLDocumentation.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\XMLDocumentation.AssemblyInfo.cs
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\XMLDocumentation.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\XMLDocumentation.dll
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\refint\XMLDocumentation.dll
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\XMLDocumentation.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\XMLDocumentation.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_17\XMLDocumentation\obj\Debug\net7.0\ref\XMLDocumentation.dll
