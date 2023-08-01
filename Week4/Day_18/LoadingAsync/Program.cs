@@ -5,18 +5,33 @@ public class Program
 {
     public static async Task Main(string[] args)
     {
-        Console.WriteLine("Start loading data...");
+        Console.WriteLine("Press Enter to stop loading and enter your input.");
 
         // Menampilkan animasi loading menggunakan Task.Run
         var loadingTask = Task.Run(AnimateLoading);
 
-        // Simulasi loading data
-        await Task.Delay(5000); // Simulasi loading selama 5 detik
+        // Menjalankan tugas membaca input secara asinkron
+        Task<string> userInputTask = GetUserInputAsync();
 
-        // Menunggu animasi loading selesai
-        await loadingTask;
+        // Menunggu hingga salah satu dari tugas selesai
+        await Task.WhenAny(userInputTask, loadingTask);
 
-        Console.WriteLine("Data loaded successfully.");
+        // Jika tugas membaca input selesai lebih dulu, hentikan animasi loading
+        if (loadingTask.Status == TaskStatus.Running)
+        {
+            StopAnimation();
+        }
+
+        // Ambil nilai input dari pengguna
+        string userInput = await userInputTask;
+
+        // Tampilkan input dari pengguna
+        Console.WriteLine("Your input: " + userInput);
+    }
+
+    public static async Task<string> GetUserInputAsync()
+    {
+        return await Task.Run(() => Console.ReadLine());
     }
 
     private static async Task AnimateLoading()
@@ -26,11 +41,17 @@ public class Program
         string animationFrames = "|/-\\";
         int frameIndex = 0;
 
-        while (!Console.KeyAvailable)
+        while (true)
         {
             Console.SetCursorPosition(Console.CursorLeft, Console.CursorTop);
             Console.Write(animationFrames[frameIndex]);
             frameIndex = (frameIndex + 1) % animationFrames.Length;
+
+            if (Console.KeyAvailable)
+            {
+                break; // Hentikan animasi jika tombol telah ditekan
+            }
+
             await Task.Delay(100);
         }
 
@@ -38,5 +59,12 @@ public class Program
         Console.SetCursorPosition(Console.CursorLeft, Console.CursorTop);
         Console.Write(" ");
         Console.CursorVisible = true;
+    }
+
+    private static void StopAnimation()
+    {
+        Console.CursorVisible = true;
+        Console.SetCursorPosition(Console.CursorLeft, Console.CursorTop);
+        Console.Write(" "); // Clear the last frame of the animation
     }
 }
