@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\bin\Debug\net7.0\WhenAny.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\bin\Debug\net7.0\WhenAny.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\bin\Debug\net7.0\WhenAny.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\bin\Debug\net7.0\WhenAny.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\bin\Debug\net7.0\WhenAny.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\WhenAny.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\WhenAny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\WhenAny.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\WhenAny.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\WhenAny.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\WhenAny.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\refint\WhenAny.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\WhenAny.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\WhenAny.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\WhenAny\obj\Debug\net7.0\ref\WhenAny.dll

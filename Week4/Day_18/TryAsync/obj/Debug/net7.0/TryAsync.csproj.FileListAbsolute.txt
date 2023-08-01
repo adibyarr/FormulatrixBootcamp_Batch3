@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\bin\Debug\net7.0\TryAsync.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\bin\Debug\net7.0\TryAsync.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\bin\Debug\net7.0\TryAsync.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\bin\Debug\net7.0\TryAsync.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\bin\Debug\net7.0\TryAsync.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\TryAsync.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\TryAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\TryAsync.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\TryAsync.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\TryAsync.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\TryAsync.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\refint\TryAsync.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\TryAsync.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\TryAsync.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\TryAsync\obj\Debug\net7.0\ref\TryAsync.dll

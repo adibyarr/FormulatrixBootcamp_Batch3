@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\bin\Debug\net7.0\Concurrency.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\bin\Debug\net7.0\Concurrency.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\bin\Debug\net7.0\Concurrency.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\bin\Debug\net7.0\Concurrency.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\bin\Debug\net7.0\Concurrency.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\Concurrency.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\Concurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\Concurrency.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\Concurrency.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\Concurrency.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\Concurrency.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\refint\Concurrency.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\Concurrency.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\Concurrency.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\Concurrency\obj\Debug\net7.0\ref\Concurrency.dll

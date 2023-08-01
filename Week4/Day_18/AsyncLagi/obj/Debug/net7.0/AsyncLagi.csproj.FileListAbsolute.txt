@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\bin\Debug\net7.0\AsyncLagi.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\bin\Debug\net7.0\AsyncLagi.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\bin\Debug\net7.0\AsyncLagi.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\bin\Debug\net7.0\AsyncLagi.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\bin\Debug\net7.0\AsyncLagi.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\AsyncLagi.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\AsyncLagi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\AsyncLagi.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\AsyncLagi.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\AsyncLagi.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\AsyncLagi.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\refint\AsyncLagi.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\AsyncLagi.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\AsyncLagi.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_18\AsyncLagi\obj\Debug\net7.0\ref\AsyncLagi.dll
