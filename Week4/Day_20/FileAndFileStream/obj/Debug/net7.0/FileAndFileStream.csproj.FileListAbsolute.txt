@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\FileAndFileStream.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\FileAndFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\FileAndFileStream.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\FileAndFileStream.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\FileAndFileStream.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\bin\Debug\net7.0\FileAndFileStream.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\bin\Debug\net7.0\FileAndFileStream.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\bin\Debug\net7.0\FileAndFileStream.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\bin\Debug\net7.0\FileAndFileStream.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\bin\Debug\net7.0\FileAndFileStream.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\FileAndFileStream.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\refint\FileAndFileStream.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\FileAndFileStream.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\FileAndFileStream.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\FileAndFileStream\obj\Debug\net7.0\ref\FileAndFileStream.dll

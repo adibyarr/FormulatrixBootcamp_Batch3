@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\bin\Debug\net7.0\StreamWriterandReader.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\bin\Debug\net7.0\StreamWriterandReader.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\bin\Debug\net7.0\StreamWriterandReader.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\bin\Debug\net7.0\StreamWriterandReader.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\bin\Debug\net7.0\StreamWriterandReader.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\StreamWriterandReader.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\StreamWriterandReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\StreamWriterandReader.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\StreamWriterandReader.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\StreamWriterandReader.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\StreamWriterandReader.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\refint\StreamWriterandReader.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\StreamWriterandReader.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\StreamWriterandReader.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_20\StreamWriterandReader\obj\Debug\net7.0\ref\StreamWriterandReader.dll
