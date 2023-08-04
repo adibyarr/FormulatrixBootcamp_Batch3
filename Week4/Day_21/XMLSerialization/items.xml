@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Description>Sepeda</Description>
+    <price>3020000</price>
+    <condition>Baik</condition>
+  </Items>
+  <Items>
+    <Description>Sepeda</Description>
+    <price>3020000</price>
+    <condition>Baik</condition>
+  </Items>
+   <Items>
+    <Description>Traktor</Description>
+    <price>4320000</price>
+    <condition>Kotor</condition>
+  </Items>
+  <Items>
+    <Description>Motor Listrik</Description>
+    <price>43200000</price>
+    <condition>Nyetrum</condition>
+  </Items>
+  <Items>
+    <Description>Motor Listrik</Description>
+    <price>43200000</price>
+    <condition>Nyetrum</condition>
+  </Items>
+  <Items>
+    <Description>Motor Listrik</Description>
+    <price>43200000</price>
+    <condition>Nyetrum</condition>
+  </Items>
+</ArrayOfItems>

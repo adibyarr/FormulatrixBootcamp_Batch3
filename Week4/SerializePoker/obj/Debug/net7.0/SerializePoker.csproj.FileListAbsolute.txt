@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\bin\Debug\net7.0\SerializePoker.exe
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\bin\Debug\net7.0\SerializePoker.deps.json
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\bin\Debug\net7.0\SerializePoker.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\bin\Debug\net7.0\SerializePoker.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\bin\Debug\net7.0\SerializePoker.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\SerializePoker.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\SerializePoker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\SerializePoker.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\SerializePoker.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\SerializePoker.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\SerializePoker.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\refint\SerializePoker.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\SerializePoker.pdb
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\SerializePoker.genruntimeconfig.cache
+c:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\SerializePoker\obj\Debug\net7.0\ref\SerializePoker.dll

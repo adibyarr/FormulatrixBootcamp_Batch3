@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\bin\Debug\net7.0\jsonSerialization.exe
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\bin\Debug\net7.0\jsonSerialization.deps.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\bin\Debug\net7.0\jsonSerialization.runtimeconfig.json
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\bin\Debug\net7.0\jsonSerialization.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\bin\Debug\net7.0\jsonSerialization.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\jsonSerialization.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\jsonSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\jsonSerialization.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\jsonSerialization.AssemblyInfo.cs
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\jsonSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\jsonSerialization.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\refint\jsonSerialization.dll
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\jsonSerialization.pdb
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\jsonSerialization.genruntimeconfig.cache
+C:\Users\Batch 3\Bootcamp\day_Two\FormulatrixBootcamp_Batch3\Week4\Day_21\jsonSerialization\obj\Debug\net7.0\ref\jsonSerialization.dll

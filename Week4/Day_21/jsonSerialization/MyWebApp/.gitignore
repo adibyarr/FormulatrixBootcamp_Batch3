@@ -1,0 +1,29 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet package directories
+packages/
+
+# Ignore user-specific files and settings
+*.user
+*.suo
+*.cache
+*.csproj.user
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.tmp.*
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .env files (containing environment variables)
+.env
+
+# Ignore secret files
+secrets/

@@ -54,7 +54,7 @@ public class Program
             Console.SetCursorPosition(Console.CursorLeft, Console.CursorTop);
             Console.Write(animationFrames[frameIndex]);
             frameIndex = (frameIndex + 1) % animationFrames.Length;
-            await Task.Delay(100);
+            await Task.Delay(200);
         }
 
         // Bersihkan animation frame
