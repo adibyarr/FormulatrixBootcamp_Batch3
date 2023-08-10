@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\day_11\\HashTable\\HashTable\\HashTable.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week2\\day_11\\HashTable\\HashTable\\HashTable.csproj",
       "projectName": "HashTable",
-      "projectPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\day_11\\HashTable\\HashTable\\HashTable.csproj",
+      "projectPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week2\\day_11\\HashTable\\HashTable\\HashTable.csproj",
       "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\day_11\\HashTable\\HashTable\\obj\\",
+      "outputPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week2\\day_11\\HashTable\\HashTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

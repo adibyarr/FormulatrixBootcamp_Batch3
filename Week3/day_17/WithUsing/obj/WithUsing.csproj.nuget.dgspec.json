@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\WithUsing.csproj": {}
+    "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\WithUsing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\WithUsing.csproj": {
+    "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\WithUsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\WithUsing.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\WithUsing.csproj",
         "projectName": "WithUsing",
-        "projectPath": "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\WithUsing.csproj",
+        "projectPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\WithUsing.csproj",
         "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\obj\\",
+        "outputPath": "c:\\Users\\Batch 3\\Bootcamp\\day_Two\\FormulatrixBootcamp_Batch3\\Week3\\day_17\\WithUsing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
