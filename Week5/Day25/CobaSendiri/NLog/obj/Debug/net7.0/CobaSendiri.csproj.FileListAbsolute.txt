@@ -1,0 +1,17 @@
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\bin\Debug\net7.0\CobaSendiri.exe
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\bin\Debug\net7.0\CobaSendiri.deps.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\bin\Debug\net7.0\CobaSendiri.runtimeconfig.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\bin\Debug\net7.0\CobaSendiri.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\bin\Debug\net7.0\CobaSendiri.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\bin\Debug\net7.0\NLog.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\CobaSendiri.csproj.AssemblyReference.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\CobaSendiri.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\CobaSendiri.AssemblyInfoInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\CobaSendiri.AssemblyInfo.cs
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\CobaSendiri.csproj.CoreCompileInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\CobaSendiri.csproj.CopyComplete
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\CobaSendiri.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\refint\CobaSendiri.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\CobaSendiri.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\CobaSendiri.genruntimeconfig.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLog\obj\Debug\net7.0\ref\CobaSendiri.dll

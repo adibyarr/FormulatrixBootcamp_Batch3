@@ -1,0 +1,17 @@
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\NLogProj.csproj.AssemblyReference.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\NLogProj.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\NLogProj.AssemblyInfoInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\NLogProj.AssemblyInfo.cs
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\NLogProj.csproj.CoreCompileInputs.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\bin\Debug\net7.0\NLogProj.exe
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\bin\Debug\net7.0\NLogProj.deps.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\bin\Debug\net7.0\NLogProj.runtimeconfig.json
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\bin\Debug\net7.0\NLogProj.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\bin\Debug\net7.0\NLogProj.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\bin\Debug\net7.0\NLog.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\NLogProj.csproj.CopyComplete
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\NLogProj.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\refint\NLogProj.dll
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\NLogProj.pdb
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\NLogProj.genruntimeconfig.cache
+c:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week5\Day25\CobaSendiri\NLogProj\obj\Debug\net7.0\ref\NLogProj.dll

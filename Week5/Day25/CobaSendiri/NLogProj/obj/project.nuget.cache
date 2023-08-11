@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCZVfYkb/Iriy88QBnOHZIpd7n0yj/lxxo8V+H3WNW90lBsP3SuhTAeR9a5C/3bUjs3NNEMRlcXdSl9TCyxTHQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\hp\\BootcampBatch3\\FormulatrixBootcamp_Batch3\\Week5\\Day25\\CobaSendiri\\NLogProj\\NLogProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\nlog\\5.2.3\\nlog.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
