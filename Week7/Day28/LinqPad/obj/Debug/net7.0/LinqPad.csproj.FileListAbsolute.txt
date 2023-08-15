@@ -1,0 +1,15 @@
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\bin\Debug\net7.0\LinqPad.exe
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\bin\Debug\net7.0\LinqPad.deps.json
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\bin\Debug\net7.0\LinqPad.runtimeconfig.json
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\bin\Debug\net7.0\LinqPad.dll
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\bin\Debug\net7.0\LinqPad.pdb
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\LinqPad.csproj.AssemblyReference.cache
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\LinqPad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\LinqPad.AssemblyInfoInputs.cache
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\LinqPad.AssemblyInfo.cs
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\LinqPad.csproj.CoreCompileInputs.cache
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\LinqPad.dll
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\refint\LinqPad.dll
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\LinqPad.pdb
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\LinqPad.genruntimeconfig.cache
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week6\Day28\LinqPad\obj\Debug\net7.0\ref\LinqPad.dll
