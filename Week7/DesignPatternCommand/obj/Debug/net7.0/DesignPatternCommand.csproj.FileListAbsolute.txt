@@ -1,0 +1,15 @@
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\DesignPatternCommand.csproj.AssemblyReference.cache
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\DesignPatternCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\DesignPatternCommand.AssemblyInfoInputs.cache
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\DesignPatternCommand.AssemblyInfo.cs
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\DesignPatternCommand.csproj.CoreCompileInputs.cache
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\bin\Debug\net7.0\DesignPatternCommand.exe
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\bin\Debug\net7.0\DesignPatternCommand.deps.json
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\bin\Debug\net7.0\DesignPatternCommand.runtimeconfig.json
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\bin\Debug\net7.0\DesignPatternCommand.dll
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\bin\Debug\net7.0\DesignPatternCommand.pdb
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\DesignPatternCommand.dll
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\refint\DesignPatternCommand.dll
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\DesignPatternCommand.pdb
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\DesignPatternCommand.genruntimeconfig.cache
+C:\Users\hp\BootcampBatch3\FormulatrixBootcamp_Batch3\Week7\DesignPatternCommand\obj\Debug\net7.0\ref\DesignPatternCommand.dll
