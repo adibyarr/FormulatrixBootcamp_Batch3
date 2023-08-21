@@ -1,13 +1,13 @@
 namespace DesignPattern;
 
-public class TvOnCommand : Command
+public class TvOnCommand : ICommand
 {
 	private Television _tv;
 	public TvOnCommand(Television tv)
 	{
 		_tv = tv;
 	}
-    public override void Execute()
+    public void Execute()
     {
         _tv.TurnOn();
     }

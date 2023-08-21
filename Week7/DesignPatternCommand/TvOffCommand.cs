@@ -1,5 +1,5 @@
 namespace DesignPattern;
-public class TvOffCommand : Command
+public class TvOffCommand : ICommand
 
 {
 	private Television _tv;
@@ -8,7 +8,7 @@ public class TvOffCommand : Command
 	{
 		_tv = television;
 	}
-    public override void Execute()
+    public void Execute()
     {
         _tv.TurnOff();
     }

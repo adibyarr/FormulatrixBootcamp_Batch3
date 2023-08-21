@@ -2,8 +2,8 @@ namespace DesignPattern;
 
 public class RemoteControl
 {
-	private Command _command;
-	public void SetCommand(Command command)
+	private ICommand _command;
+	public void SetCommand(ICommand command)
 	{
 		_command = command;
 	}

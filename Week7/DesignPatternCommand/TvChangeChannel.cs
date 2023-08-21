@@ -1,6 +1,6 @@
 namespace DesignPattern;
 
-public class TvChangeChannel : Command
+public class TvChangeChannel : ICommand
 {
 	private Television _tv;
 	private int _changeChannel;
@@ -10,7 +10,7 @@ public class TvChangeChannel : Command
 		_tv = television;
 		_changeChannel = channel;
 	}
-	public override void Execute()
+	public  void Execute()
 	{
 		_tv.ChangeChannel();
 	}

@@ -1,6 +1,6 @@
 namespace DesignPattern;
 
-public abstract class Command
+public interface ICommand
 {
-	public abstract void Execute();
+	public void Execute();
 }
